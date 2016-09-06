@@ -1,5 +1,5 @@
-#"Markdown Project for Coursera Reproducible Research"
-### Peng Li
+# Markdown Project for Coursera Reproducible Research
+Peng Li
 ======================================================================================================================================
 
 
